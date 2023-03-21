@@ -13,7 +13,6 @@
     <script src="js/jquery.js"></script>
 <?php include 'include/navbar.php' ?>
 <?php include 'include/menu.php' ?>
-<?php include 'include/suma.php'?>
     
 
 

@@ -23,7 +23,7 @@ else{
         <input type="text" name="caja2"requerid>
         <input type="text" name="resultado" value=" <?php echo $valor;?>">
         <input type="submit" name="btn"value="calcular">
-        <div class="row"><?php echo $valor?></div>
+        <div class="row"><?php echo $valor;?></div>
         </form>
         </div>
     </div>

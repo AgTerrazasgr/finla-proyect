@@ -24,9 +24,9 @@
         Dropdown button
       </button>
       <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="#">Action</a></li>
-        <li><a class="dropdown-item" href="#">Another action</a></li>
-        <li><a class="dropdown-item" href="#">Something else here</a></li>
+        <li><a class="dropdown-item" href="registro user.php">Registro Usuario</a></li>
+        <li><a class="dropdown-item" href="registro plantel.php">Registro Plantel</a></li>
+        <li><a class="dropdown-item" href="registro lugar.php">Registro Lugar</a></li>
       </ul>
     </div>
   </div>
@@ -34,5 +34,6 @@
 
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.js"></script>
+<?php include 'include/operaciones.php' ?>
 </body>
 </html>

@@ -8,7 +8,6 @@
     <title>Practica 1 | include con php</title>
 </head>
 <body>
-<font color="ghostwhite">
 <nav class="navbar navbar-expand-lg bg-body-tertiary bg-success">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
@@ -25,10 +24,10 @@
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Dropdown
+            Registro
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="registro user.php">Usuario</a></li>
             <li><a class="dropdown-item" href="#">Another action</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>
@@ -47,7 +46,7 @@
       </form>
     </div>
   </div>
-</nav> </font>
+</nav>
 
 </body>
 </html>
