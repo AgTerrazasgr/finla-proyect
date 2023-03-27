@@ -34,7 +34,6 @@
           </ul>
         </li>
         <a class="btn btn-primary" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
-  Link with href
 </a>
         <li class="nav-item">
           <a class="nav-link disabled">Disabled</a>

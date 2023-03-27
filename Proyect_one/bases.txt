@@ -1,0 +1,5 @@
+create table practica1.usuario(id_usuario int auto_increment not null,nombre text not null,apellidos text not null,direccion text not null,telefono text not null,f_nac date not null, primary key(id_usuario))engine=innodb;
+	
+create table practica1.usuario(id_usuario int auto_increment not null,nombre text not null,apellidos text not null,direccion text not null,telefono text not null,f_nac date not null, primary key(id_usuario))engine=innodb;
+create database practica1;
+create table practica1.Plantel(id_nplantel int auto_increment not null,c_plantel text not null,direccion text not null,telefono TEXT not null,responsable text not null,primary key(id_nplantel))engine=innodb;

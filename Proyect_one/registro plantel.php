@@ -60,7 +60,7 @@
 
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.js"></script>
-<?php include 'include/acciones.php' ?>
+<?php include 'include/acciones p.php' ?>
 <?php include 'include/conexion.php' ?>
 </body>
 </html>
